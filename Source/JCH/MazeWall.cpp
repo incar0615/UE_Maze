@@ -34,3 +34,5 @@ void AMazeWall::Tick(float DeltaTime)
 
 }
 
+
+
